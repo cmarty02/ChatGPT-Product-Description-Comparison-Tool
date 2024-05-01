@@ -12,8 +12,8 @@ This Python tool assists in comparing product descriptions to determine if they 
 ## Output
 The script will generate a CSV file with a new column `Is_Similar`, indicating whether the descriptions are considered similar. Here is an example of what the output might look like:
 
-| Description Client                                        | Description Crow                                   | Is_Similar |
+| Description 1                                             | Description 2                                      | Is_Similar |
 |-----------------------------------------------------------|----------------------------------------------------|------------|
 | TEQ. CUERVO EXTRA AÑEJO 250 ANIVERSARIO                   | TEQ.JCVO.250 ANIV.40% 1/750ML MEX                  | True       |
-| TEQ MAESTRO DOBEL BCO SPLIT 200ML                         | TEQ. MTRO.DOBEL BCO.38% 12/200ML                   | True       |
-| CUERVO TRADICIONAL CRISTALINO 1750ML                      | MARG.MIX 12/1L                                     | False      |
+| TEQ MAESTRO DOBEL BLANCO SPLIT 200ML                      | TEQ. MTRO.DOBEL BCO.38% 12/200ML                   | True       |
+| TRADICIONAL CRISTALINO 1750ML                             | MARG.MIX 12/1L                                     | False      |
