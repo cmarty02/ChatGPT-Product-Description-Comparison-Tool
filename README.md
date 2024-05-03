@@ -1,7 +1,7 @@
-# Product Description Comparison Tool
+# SKU Description Comparison Tool
 
 ## Overview
-This Python tool assists in comparing product descriptions to determine if they refer to the same item. It leverages the OpenAI API to analyze and compare descriptions provided by different sources.
+This Python tool assists in comparing sku descriptions to determine if they refer to the same item. It leverages the OpenAI API to analyze and compare descriptions provided by different sources.
 
 ## Features
 - Load product descriptions from a CSV file.
